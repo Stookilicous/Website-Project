@@ -1,0 +1,30 @@
+.banner{
+    background-image:url("https://th.bing.com/th/id/R.ef82f5b5025e3b9449782ab22c5c963c?rik=8qHSuJe14mf%2f%2fw&pid=ImgRaw&r=0");
+    background-size:cover;
+    height:80px;
+    width:100%;
+}
+.logo{
+    font-family: "Oi", serif;
+    font-weight: 400;
+    font-size:30px;
+    font-style: normal;
+}
+.dropdown-toggle{
+    margin-top:13px;
+}
+.active{
+    background-color:rgba(112, 112, 112, 0.212);
+}
+h3{
+    font-family: "Barriecito", system-ui;
+    font-weight: 400;
+    font-style: normal;
+}
+.menu-item{
+    width:200px;
+    height:100px;
+}
+.menu-item h3{
+    text-align:center;
+}
