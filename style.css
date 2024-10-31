@@ -3,7 +3,9 @@
     background-size:cover;
     height:80px;
     width:100%;
+    margin-bottom:30px;
 }
+
 .logo{
     font-family: "Oi", serif;
     font-weight: 400;
@@ -16,15 +18,24 @@
 .active{
     background-color:rgba(112, 112, 112, 0.212);
 }
+#hero-image{
+    width:50%;
+    background-image: url(https://www.bananosmoothies.com/wp-content/uploads/2022/02/banano-billings.jpg);
+}
+.btn{
+    background-color:#fcf75e
+}
 h3{
     font-family: "Barriecito", system-ui;
     font-weight: 400;
     font-style: normal;
 }
-.menu-item{
-    width:200px;
-    height:100px;
+
+.jumbotron{
+    background-color: #17c3b2;
+    margin-top:30px;
+    margin-bottom:30px;
 }
-.menu-item h3{
-    text-align:center;
+.menu{
+    height:50%;
 }
